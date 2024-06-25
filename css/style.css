@@ -1,0 +1,14 @@
+body {
+    background-color: rgba(158, 95, 218, 0.877);
+    color: white;
+}
+
+.sublinhado {
+    text-decoration: underline;
+}
+.verde {
+    color: green
+}
+#maiuscula {
+    text-transform: uppercase;
+}
